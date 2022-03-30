@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Haleclaw/Haleclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bram van Ballegooijen
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+<p>
+My name is Bram van Ballegooijen and i am a beginner developer
+</p>
+
+### Personal
+🎥 -> I enjoy watching movies / series <br>
+🦌 -> Favorite animal is a stag<br>
+
+
+## Github stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Haleclaw&count_private=true&theme=default&showicons=true&hide=prs)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haleclaw&langs_count=2&theme=default&layout=compact)]()
+
+## Technologies
+<p align="left">
+<img src="https://img.shields.io/badge/HTML-Websites-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26"></img>
+<img src="https://img.shields.io/badge/CSS-Styling-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6"></img>
+
+</p>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
