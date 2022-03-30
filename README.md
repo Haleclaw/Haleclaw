@@ -1,7 +1,4 @@
 
-## Bram van Ballegooijen
-
-
 ## Introduction
 <p>
 My name is Bram van Ballegooijen and i am a beginner developer
