@@ -1,7 +1,7 @@
 
 ## Introduction
 <p>
-My name is Bram van Ballegooijen and i am a beginner developer
+My name is Bram van Ballegooijen and i am a beginning developer
 </p>
 
 ### Personal
