@@ -5,11 +5,6 @@
 My name is Bram van Ballegooijen and i am a beginning developer
 </p>
 
-### Personal
-🎥 -> I enjoy watching movies / series <br>
-🦌 -> Favorite animal is a stag<br>
-
-
 ## Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Haleclaw&count_private=true&theme=default&showicons=true&hide=prs)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haleclaw&langs_count=2&theme=default&layout=compact)]()
